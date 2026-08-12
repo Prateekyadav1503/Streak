@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prateekyadav1503/Streak/tree/master/0739-daily-temperatures) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prateekyadav1503/Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -18,9 +19,11 @@
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prateekyadav1503/Streak/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prateekyadav1503/Streak/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
