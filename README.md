@@ -11,6 +11,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Prateekyadav1503/Streak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prateekyadav1503/Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -30,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Prateekyadav1503/Streak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -38,5 +40,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Prateekyadav1503/Streak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
