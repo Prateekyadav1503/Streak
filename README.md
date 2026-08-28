@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekyadav1503/Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Prateekyadav1503/Streak/tree/master/0136-single-number) |
 | [0503-next-greater-element-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prateekyadav1503/Streak/tree/master/0739-daily-temperatures) |
 | [1386-cinema-seat-allocation](https://github.com/Prateekyadav1503/Streak/tree/master/1386-cinema-seat-allocation) |
@@ -79,6 +80,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Prateekyadav1503/Streak/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Prateekyadav1503/Streak/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
