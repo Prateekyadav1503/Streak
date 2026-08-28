@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Prateekyadav1503/Streak/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prateekyadav1503/Streak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0119-pascals-triangle-ii) |
 | [0503-next-greater-element-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prateekyadav1503/Streak/tree/master/0739-daily-temperatures) |
 | [1386-cinema-seat-allocation](https://github.com/Prateekyadav1503/Streak/tree/master/1386-cinema-seat-allocation) |
@@ -120,4 +121,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
