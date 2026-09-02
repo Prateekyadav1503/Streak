@@ -91,6 +91,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Prateekyadav1503/Streak/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prateekyadav1503/Streak/tree/master/0066-plus-one) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prateekyadav1503/Streak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
