@@ -24,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/Prateekyadav1503/Streak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prateekyadav1503/Streak/tree/master/0409-longest-palindrome) |
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prateekyadav1503/Streak/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/Prateekyadav1503/Streak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0387-first-unique-character-in-a-string) |
@@ -89,6 +91,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prateekyadav1503/Streak/tree/master/0066-plus-one) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prateekyadav1503/Streak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prateekyadav1503/Streak/tree/master/3875-construct-uniform-parity-array-i) |
