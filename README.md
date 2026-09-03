@@ -53,6 +53,7 @@
 | [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prateekyadav1503/Streak/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Prateekyadav1503/Streak/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Prateekyadav1503/Streak/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Prateekyadav1503/Streak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prateekyadav1503/Streak/tree/master/0409-longest-palindrome) |
@@ -88,6 +89,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Prateekyadav1503/Streak/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Prateekyadav1503/Streak/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Prateekyadav1503/Streak/tree/master/1386-cinema-seat-allocation) |
 ## Math
@@ -96,6 +98,7 @@
 | [0009-palindrome-number](https://github.com/Prateekyadav1503/Streak/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prateekyadav1503/Streak/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Prateekyadav1503/Streak/tree/master/0067-add-binary) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prateekyadav1503/Streak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prateekyadav1503/Streak/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -138,4 +141,8 @@
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekyadav1503/Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Prateekyadav1503/Streak/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
