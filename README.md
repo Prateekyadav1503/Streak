@@ -52,6 +52,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prateekyadav1503/Streak/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Prateekyadav1503/Streak/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/Prateekyadav1503/Streak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prateekyadav1503/Streak/tree/master/0409-longest-palindrome) |
