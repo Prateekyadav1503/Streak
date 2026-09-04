@@ -99,6 +99,7 @@
 | [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prateekyadav1503/Streak/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prateekyadav1503/Streak/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Prateekyadav1503/Streak/tree/master/0069-sqrtx) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prateekyadav1503/Streak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prateekyadav1503/Streak/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Prateekyadav1503/Streak/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Prateekyadav1503/Streak/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prateekyadav1503/Streak/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Prateekyadav1503/Streak/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
