@@ -22,6 +22,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateekyadav1503/Streak/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prateekyadav1503/Streak/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prateekyadav1503/Streak/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
