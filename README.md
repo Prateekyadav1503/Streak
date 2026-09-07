@@ -60,6 +60,7 @@
 | [0383-ransom-note](https://github.com/Prateekyadav1503/Streak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prateekyadav1503/Streak/tree/master/0409-longest-palindrome) |
+| [0940-distinct-subsequences-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Prateekyadav1503/Streak/tree/master/1189-maximum-number-of-balloons) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prateekyadav1503/Streak/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Queue
@@ -151,6 +152,7 @@
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekyadav1503/Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0940-distinct-subsequences-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
 |  |
 | ------- |
