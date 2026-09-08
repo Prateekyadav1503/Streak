@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prateekyadav1503/Streak/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prateekyadav1503/Streak/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Prateekyadav1503/Streak/tree/master/0058-length-of-last-word) |
@@ -120,6 +121,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prateekyadav1503/Streak/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Prateekyadav1503/Streak/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekyadav1503/Streak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekyadav1503/Streak/tree/master/0027-remove-element) |
@@ -151,6 +153,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prateekyadav1503/Streak/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Prateekyadav1503/Streak/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Prateekyadav1503/Streak/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3904-smallest-stable-index-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prateekyadav1503/Streak/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
