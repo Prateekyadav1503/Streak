@@ -117,6 +117,7 @@
 | [0067-add-binary](https://github.com/Prateekyadav1503/Streak/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Prateekyadav1503/Streak/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prateekyadav1503/Streak/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/Prateekyadav1503/Streak/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prateekyadav1503/Streak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Prateekyadav1503/Streak/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3871-count-commas-in-range-ii) |
@@ -204,4 +205,8 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Prateekyadav1503/Streak/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Prateekyadav1503/Streak/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
