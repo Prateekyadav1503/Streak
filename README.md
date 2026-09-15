@@ -21,6 +21,7 @@
 | [0835-image-overlap](https://github.com/Prateekyadav1503/Streak/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Prateekyadav1503/Streak/tree/master/1386-cinema-seat-allocation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Prateekyadav1503/Streak/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateekyadav1503/Streak/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prateekyadav1503/Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prateekyadav1503/Streak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateekyadav1503/Streak/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -136,6 +137,7 @@
 | [0011-container-with-most-water](https://github.com/Prateekyadav1503/Streak/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekyadav1503/Streak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekyadav1503/Streak/tree/master/0027-remove-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateekyadav1503/Streak/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
@@ -146,6 +148,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Prateekyadav1503/Streak/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Prateekyadav1503/Streak/tree/master/0069-sqrtx) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateekyadav1503/Streak/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prateekyadav1503/Streak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
