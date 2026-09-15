@@ -69,6 +69,7 @@
 | [0409-longest-palindrome](https://github.com/Prateekyadav1503/Streak/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Prateekyadav1503/Streak/tree/master/1189-maximum-number-of-balloons) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prateekyadav1503/Streak/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Queue
 |  |
@@ -86,6 +87,7 @@
 | [0011-container-with-most-water](https://github.com/Prateekyadav1503/Streak/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Prateekyadav1503/Streak/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/Prateekyadav1503/Streak/tree/master/1386-cinema-seat-allocation) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0011-container-with-most-water](https://github.com/Prateekyadav1503/Streak/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekyadav1503/Streak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekyadav1503/Streak/tree/master/0027-remove-element) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekyadav1503/Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prateekyadav1503/Streak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
