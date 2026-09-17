@@ -21,6 +21,7 @@
 | [0835-image-overlap](https://github.com/Prateekyadav1503/Streak/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Prateekyadav1503/Streak/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prateekyadav1503/Streak/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateekyadav1503/Streak/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Prateekyadav1503/Streak/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateekyadav1503/Streak/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prateekyadav1503/Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -208,6 +209,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateekyadav1503/Streak/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prateekyadav1503/Streak/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Prateekyadav1503/Streak/tree/master/0836-rectangle-overlap) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateekyadav1503/Streak/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
