@@ -75,6 +75,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Prateekyadav1503/Streak/tree/master/1189-maximum-number-of-balloons) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prateekyadav1503/Streak/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prateekyadav1503/Streak/tree/master/0067-add-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
 | ------- |
