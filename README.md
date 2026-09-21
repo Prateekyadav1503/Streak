@@ -66,6 +66,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav1503/Streak/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prateekyadav1503/Streak/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Prateekyadav1503/Streak/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prateekyadav1503/Streak/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Prateekyadav1503/Streak/tree/master/0115-distinct-subsequences) |
@@ -144,6 +145,7 @@
 | [0011-container-with-most-water](https://github.com/Prateekyadav1503/Streak/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekyadav1503/Streak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekyadav1503/Streak/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateekyadav1503/Streak/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
@@ -232,4 +234,20 @@
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateekyadav1503/Streak/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
