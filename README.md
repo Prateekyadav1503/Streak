@@ -22,6 +22,7 @@
 | [0835-image-overlap](https://github.com/Prateekyadav1503/Streak/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Prateekyadav1503/Streak/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prateekyadav1503/Streak/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prateekyadav1503/Streak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateekyadav1503/Streak/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Prateekyadav1503/Streak/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateekyadav1503/Streak/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -44,6 +45,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Prateekyadav1503/Streak/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/Prateekyadav1503/Streak/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prateekyadav1503/Streak/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prateekyadav1503/Streak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prateekyadav1503/Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateekyadav1503/Streak/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prateekyadav1503/Streak/tree/master/3483-unique-3-digit-even-numbers) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prateekyadav1503/Streak/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prateekyadav1503/Streak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prateekyadav1503/Streak/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
 |  |
@@ -164,6 +167,7 @@
 | [0069-sqrtx](https://github.com/Prateekyadav1503/Streak/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Prateekyadav1503/Streak/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prateekyadav1503/Streak/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prateekyadav1503/Streak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateekyadav1503/Streak/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prateekyadav1503/Streak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -214,6 +218,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prateekyadav1503/Streak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3904-smallest-stable-index-ii) |
 ## Manacher
 |  |
