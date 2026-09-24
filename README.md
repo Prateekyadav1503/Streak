@@ -31,6 +31,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateekyadav1503/Streak/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prateekyadav1503/Streak/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Prateekyadav1503/Streak/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prateekyadav1503/Streak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prateekyadav1503/Streak/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3904-smallest-stable-index-ii) |
@@ -135,6 +136,7 @@
 | [0268-missing-number](https://github.com/Prateekyadav1503/Streak/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Prateekyadav1503/Streak/tree/master/0836-rectangle-overlap) |
 | [3524-find-x-value-of-array-i](https://github.com/Prateekyadav1503/Streak/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prateekyadav1503/Streak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prateekyadav1503/Streak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Prateekyadav1503/Streak/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Prateekyadav1503/Streak/tree/master/3871-count-commas-in-range-ii) |
