@@ -43,6 +43,7 @@
 | [0383-ransom-note](https://github.com/Prateekyadav1503/Streak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prateekyadav1503/Streak/tree/master/0409-longest-palindrome) |
+| [1096-brace-expansion-ii](https://github.com/Prateekyadav1503/Streak/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Prateekyadav1503/Streak/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/Prateekyadav1503/Streak/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prateekyadav1503/Streak/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Prateekyadav1503/Streak/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/Prateekyadav1503/Streak/tree/master/1096-brace-expansion-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prateekyadav1503/Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prateekyadav1503/Streak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
@@ -61,6 +63,7 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prateekyadav1503/Streak/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/Prateekyadav1503/Streak/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prateekyadav1503/Streak/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Prateekyadav1503/Streak/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Prateekyadav1503/Streak/tree/master/1189-maximum-number-of-balloons) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prateekyadav1503/Streak/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -263,4 +267,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Prateekyadav1503/Streak/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Prateekyadav1503/Streak/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
