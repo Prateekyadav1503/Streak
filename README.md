@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Prateekyadav1503/Streak/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Prateekyadav1503/Streak/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Prateekyadav1503/Streak/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Prateekyadav1503/Streak/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prateekyadav1503/Streak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0119-pascals-triangle-ii) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Prateekyadav1503/Streak/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Prateekyadav1503/Streak/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Prateekyadav1503/Streak/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/Prateekyadav1503/Streak/tree/master/1096-brace-expansion-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prateekyadav1503/Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -170,6 +172,7 @@
 | [0027-remove-element](https://github.com/Prateekyadav1503/Streak/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Prateekyadav1503/Streak/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Prateekyadav1503/Streak/tree/master/0075-sort-colors) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateekyadav1503/Streak/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
@@ -286,4 +289,12 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Prateekyadav1503/Streak/tree/master/1096-brace-expansion-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prateekyadav1503/Streak/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prateekyadav1503/Streak/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
