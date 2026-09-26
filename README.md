@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekyadav1503/Streak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekyadav1503/Streak/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prateekyadav1503/Streak/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Prateekyadav1503/Streak/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Prateekyadav1503/Streak/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prateekyadav1503/Streak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
@@ -65,12 +66,14 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prateekyadav1503/Streak/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prateekyadav1503/Streak/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/Prateekyadav1503/Streak/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prateekyadav1503/Streak/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prateekyadav1503/Streak/tree/master/0739-daily-temperatures) |
 ## String
@@ -166,6 +169,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekyadav1503/Streak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekyadav1503/Streak/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Prateekyadav1503/Streak/tree/master/0042-trapping-rain-water) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateekyadav1503/Streak/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
@@ -204,6 +208,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav1503/Streak/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Prateekyadav1503/Streak/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Prateekyadav1503/Streak/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Prateekyadav1503/Streak/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
