@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Prateekyadav1503/Streak/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prateekyadav1503/Streak/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Prateekyadav1503/Streak/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Prateekyadav1503/Streak/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Prateekyadav1503/Streak/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Prateekyadav1503/Streak/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prateekyadav1503/Streak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -208,6 +209,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Prateekyadav1503/Streak/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prateekyadav1503/Streak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 |  |
@@ -228,6 +230,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav1503/Streak/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Prateekyadav1503/Streak/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Prateekyadav1503/Streak/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Prateekyadav1503/Streak/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Prateekyadav1503/Streak/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
