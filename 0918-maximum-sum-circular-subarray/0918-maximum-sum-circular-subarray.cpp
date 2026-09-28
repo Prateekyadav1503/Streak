@@ -15,10 +15,11 @@ public:
          minbestend=min(a[i],minbestend+a[i]);
 
          maxsum=max(maxsum,maxbestend);
-         minsum=min(minsum,minbestend);}
+         minsum=min(minsum,minbestend);
+         }
            if(maxsum<0)return maxsum;{
            res=max(maxsum,totalsum-minsum);
-        }
+           }
         return res;
     }
 };
