@@ -20,6 +20,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekyadav1503/Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Prateekyadav1503/Streak/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Prateekyadav1503/Streak/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prateekyadav1503/Streak/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Prateekyadav1503/Streak/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0503-next-greater-element-ii) |
@@ -236,6 +237,7 @@
 | [0118-pascals-triangle](https://github.com/Prateekyadav1503/Streak/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekyadav1503/Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Prateekyadav1503/Streak/tree/master/0152-maximum-product-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prateekyadav1503/Streak/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekyadav1503/Streak/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
