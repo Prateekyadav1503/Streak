@@ -77,6 +77,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prateekyadav1503/Streak/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prateekyadav1503/Streak/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Prateekyadav1503/Streak/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prateekyadav1503/Streak/tree/master/0739-daily-temperatures) |
@@ -97,6 +98,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav1503/Streak/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Prateekyadav1503/Streak/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prateekyadav1503/Streak/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Prateekyadav1503/Streak/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekyadav1503/Streak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Prateekyadav1503/Streak/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prateekyadav1503/Streak/tree/master/0067-add-binary) |
@@ -331,6 +333,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prateekyadav1503/Streak/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prateekyadav1503/Streak/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prateekyadav1503/Streak/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateekyadav1503/Streak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
